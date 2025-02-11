@@ -8,6 +8,8 @@
 * Faulty (Imbalance 2): Two screws inducing imbalance
 * Testing: 30 unlabeled samples for model validation
 
+Here is the complete report of the project | [Report](https://github.com/user-attachments/files/18746122/Assignment.3.-.final.pdf)
+
 **Process in brief:** 
 
 * Fast Fourier Transform (FFT) converts raw vibration data to frequency domain
@@ -26,4 +28,10 @@
 * Statistics and Machine Learning Toolbox
 * Signal Processing Toolbox
 
-Here is the complete report of the project | [Report](https://github.com/user-attachments/files/18746122/Assignment.3.-.final.pdf)
+## Acknowledgement  
+This project uses **LIBSVM**, a support vector machine library developed by Chih-Chung Chang and Chih-Jen Lin.  
+
+**"LIBSVM: A Library for Support Vector Machines"**  
+Chang, C.-C. & Lin, C.-J. (2011).  
+*ACM Transactions on Intelligent Systems and Technology*, 2(3), 27:1–27:27.  
+Software available at: [https://www.csie.ntu.edu.tw/~cjlin/libsvm](https://www.csie.ntu.edu.tw/~cjlin/libsvm)
